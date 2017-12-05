@@ -33,7 +33,7 @@
   ],
   "main": "./lib/passport-twitch",
   "dependencies": {
-    "passport-oauth2": "^1.1.2",
+    "passport-oauth": "1.0.0",
     "pkginfo": "0.2.x"
   },
   "devDependencies": {
@@ -44,8 +44,8 @@
   },
   "maintainers": [
     {
-      "name": "Schmoopiie",
-      "email": "Schmoopiie@gmail.com"
+      "name": "Crtex",
+      "email": "awesomepossvm@gmail.com"
     }
   ],
   "directories": {},
