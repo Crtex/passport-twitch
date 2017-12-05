@@ -1,7 +1,7 @@
 {
   "name": "passport-twitch",
   "version": "1.0.3",
-  "description": "Twitch (OAuth) authentication strategies for Passport.",
+  "description": "New Twitch API (OAuth) authentication strategies for Passport.",
   "keywords": [
     "passport",
     "twitch",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Schmoopiie/passport-twitch.git"
+    "url": "git://github.com/Crtex/passport-twitch.git"
   },
   "bugs": {
-    "url": "http://github.com/Schmoopiie/passport-twitch/issues"
+    "url": "https://github.com/Crtex/passport-twitch/issues"
   },
   "author": {
     "name": "Schmoopiie",
@@ -49,5 +49,5 @@
     }
   ],
   "directories": {},
-  "homepage": "https://github.com/Schmoopiie/passport-twitch"
+  "homepage": "https://github.com/Crtex/passport-twitch"
 }
